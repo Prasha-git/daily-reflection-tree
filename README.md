@@ -40,7 +40,7 @@ Prioritized **question quality (35% weight)** over Part B coding. Tree is produc
 
 ## 📧 Submission Ready
 **DT-CultureTech Fellowship Assignment - Part A Complete**
-**Candidate:** [Prashansa Choubey]
+**Candidate:** Prashansa Choubey
 **Deadline:** April 23, 2026
 
 ---
